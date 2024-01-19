@@ -1,0 +1,9 @@
+.container {
+  display: grid;
+  justify-items: center;
+}
+
+img {
+  width: 50%;
+  height: 50%;
+}
